@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 from datetime import date
 import streamlit as st
-import csv
 from db_fxns import *
 import plotly.express as px
 
