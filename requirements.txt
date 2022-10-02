@@ -1,4 +1,5 @@
-streamlit==1.12.0
+streamlit
 pandas
 numpy
 datetime
+plotly
